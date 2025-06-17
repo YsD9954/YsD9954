@@ -14,7 +14,7 @@ Throughout my academic career, I have worked on diverse projects spanning **IIoT
 
 In addition to academics, I actively participate in **college clubs, national competitions**, and **technical events**, which have honed my teamwork, leadership, and problem-solving abilities. I’m passionate about transforming innovative concepts into functional systems and am committed to **continuous learning and growth**.
 
-I believe in collaborating with like-minded professionals to drive meaningful change. If you're looking for someone who’s not afraid to tackle challenges head-on and bring innovative ideas to life, **let’s connect!**
+I believe in collaborating with like-minded professionals to drive meaningful change. If you're looking for someone who’s not afraid to tackle challenges head-on and bring innovative ideas to life.
 
 ---
 
