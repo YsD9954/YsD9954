@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Doke</h1>
+<h1 align="center">Hi, I'm Yash Doke</h1>
 <p align="center">
   <b>Electronics & Telecommunication Engineering | AI/ML Honors | Developer | Innovator</b><br>
   <i>Bridging innovation and implementation through Embedded Systems, AI, and IoT.</i>
